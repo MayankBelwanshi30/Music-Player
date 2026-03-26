@@ -70,12 +70,6 @@ Then double-click **index.html** or open it with **Live Server** if using a code
 
 ---
 
-## Project Preview
-
-![Music Player Screenshot](./screenshot.png)
-
----
-
 ## Future Improvements
 
 * Sleep timer
